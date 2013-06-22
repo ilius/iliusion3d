@@ -1,0 +1,21 @@
+#Produced by Art of Illusion 2.9.2, Sat Jun 22 20:27:01 IRDT 2013
+newmtl wood
+Kd 0.83 0.69 0.51
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl White
+Kd 1 1 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Dark_Blue
+Kd 0 0 0.43
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Blue_Tennis_Table
+Kd 0 0 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1

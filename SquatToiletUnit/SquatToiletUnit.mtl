@@ -1,0 +1,12 @@
+#Produced by Art of Illusion 2.9.2, Sat Jun 22 20:30:16 IRDT 2013
+newmtl White_Shiny
+Kd 1 1 1
+Ks 0.74 0.74 0.74
+Ka 0 0 0
+illum 2
+Ns 100
+newmtl Default_Texture
+Kd 1 1 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1
